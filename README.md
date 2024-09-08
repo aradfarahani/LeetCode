@@ -22,7 +22,7 @@ If you have any questions or suggestions, feel free to reach out to me at aradfa
 Happy coding! 🚀
 
 
-# Coming Soon!!
+# Coming Soon!
 [![Website Badge](https://img.shields.io/badge/Leet-Code-green)](https://leetcode.com/u/aradfarahani/) <br>
 
 <div align="center">

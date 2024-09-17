@@ -1,7 +1,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/aradfarahani/leetcode/badge)](https://www.codefactor.io/repository/github/aradfarahani/leetcode)
 # LeetCode Solutions Repository
 
-Welcome to my LeetCode Solutions Repository! 🎉
+Welcome to my LeetCode Solutions Repository! 
 
 ## Overview
 
